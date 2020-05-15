@@ -1,0 +1,2 @@
+rootProject.name='MVVMrec'
+include ':app'
